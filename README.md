@@ -70,6 +70,4 @@ representation, as well as the best GCN learning mechanism in text classificatio
 ## Top Unresolved Challenges
 
 1. **Model Accuracy**: Improving model accuracy beyond the current 93%.
-   - *Challenge Type*: Others (models to be tried out)
 2. **Graph Building Efficiency**: Finding better approaches for constructing graphs to enhance efficiency.
-   - *Challenge Type*: Others
